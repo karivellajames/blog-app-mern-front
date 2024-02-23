@@ -94,7 +94,7 @@ function PostPage() {
       )}
       <div className="max-h-52 flex overflow-hidden">
         <img
-          src={`http://localhost:4000/${postInfo.cover}`}
+          src={`https://blog-app-mern-back-dri3.onrender.com/${postInfo.cover}`}
           alt=""
           className="object-cover object-center"
         />
